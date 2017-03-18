@@ -1,0 +1,24 @@
+.jumbotron {
+	height: 140px;
+	background-color: blue;
+	
+}
+p {
+	color: white;
+	text-align: center
+}
+ h2 {
+ 	text-align: center;
+ 	
+ }
+ table {
+ 	border-style: solid;
+ }
+ th {
+ 	background-color: teal ;
+ 	color: white;
+ }
+ .panel-heading {
+ 	
+ background-color: blue;
+ }
